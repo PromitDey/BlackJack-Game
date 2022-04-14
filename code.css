@@ -1,0 +1,30 @@
+body{
+    font-size: 30;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    background-image: url("blackjack-table-dealing-xlarge.jpg");
+    background-size: cover;
+    text-align: center;
+    color : whitesmoke;
+    font-weight: bold;
+}
+h1 {
+    color: goldenrod;
+}
+h2{
+    color : whitesmoke;
+}
+#message-it{
+    font-style: italic;
+}
+button{
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
